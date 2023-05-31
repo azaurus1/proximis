@@ -1,7 +1,3 @@
 # Proximis
 
-Proximis is an open-source incident management system designed to help organizations track and resolve incidents quickly and efficiently. Proximis provides a scalable and flexible microservice architecture, with separate services for the front-end, back-end, and worker tasks. The front-end is built using React, while the back-end, database, and authentication are powered by Pocketbase. The Celery worker microservice handles background processing tasks, such as assigning incidents to support groups and sending notifications.
-
-Proximis includes a range of features to help organizations manage incidents, including incident creation, processing, and tracking, as well as metrics tracking, dashboards, and alerting. The system includes a range of incident fields, including ID, title, description, status, priority, type, assignee, created at, updated at, resolution time, affected system or service, category, and attachments.
-
-Proximis is designed for flexibility and can be customized to suit the specific needs of your organization. It provides a powerful and reliable incident management solution that can help you identify and resolve incidents quickly, ensuring the reliability and availability of your systems and services.
+Proximis is an open-source incident management system designed to help organizations track and resolve incidents quickly and efficiently. 
